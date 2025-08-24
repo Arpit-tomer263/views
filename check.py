@@ -30,5 +30,8 @@
 # if __name__ == '__main__':
 # 	main()
 
-a = map(lambda x: x**2, [1, 2, 3, 4])
-print(list(a))
+# a = map(lambda x: x**2, [1, 2, 3, 4])
+# print(list(a))
+
+
+print(round(3.6))
